@@ -1,0 +1,32 @@
+# CMake build directory
+/build/
+
+# CMake cache files
+CMakeCache.txt
+CMakeFiles/
+
+# Compiled object files
+*.o
+*.obj
+
+# Compiled binary files
+*.exe
+*.out
+*.dll
+*.so
+*.dylib
+
+# Backup files
+*~
+*.swp
+
+# User-specific files
+*.user
+*.sublime-workspace
+
+# Logs
+*.log
+
+# IDE-specific files
+.idea/
+.vscode/
